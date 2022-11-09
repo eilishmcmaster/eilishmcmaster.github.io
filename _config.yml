@@ -17,20 +17,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-lang: en-US
+lang: en-GB
 title: Eilish S. McMaster
-email:
+email: eilishsmcmaster@gmail.com
 description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author:
-  name:
-  twitter:
-  picture:
-twitter_username:
-github_username:
-logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+baseurl: /tree # the optional subpath of your site, e.g. "/blog"
+url: https://eilishmcmaster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+author: 
+  name: Eilish
+  twitter: eilishmcm
+  picture: 
+twitter_username: eilishmcm
+github_username: eilishmcmaster
+logo: assets/images/logo.png # path of site logo, e.g. "/assets/images/logo.png"
+search: true # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
