@@ -10,8 +10,6 @@ tags:
 This is the first post on this site. I'm using the Jekyll theme `Basically Basic` which can be found [here](https://github.com/mmistakes/jekyll-theme-basically-basic).
 <br> 
 
-While my site is under construction, enjoy this picture of a waratah I painted:
+<!-- While my site is under construction, enjoy this picture of a waratah I painted:
 
-![center-aligned-image]({{ site.url }}{{ site.baseurl }}assets/images/eilish_waratah.PNG){: .align-center}
-
-assets/images/eilish_waratah.PNG
+![center-aligned-image]({{ site.url }}{{ site.baseurl }}assets/images/eilish_waratah.PNG){: .align-center} -->
