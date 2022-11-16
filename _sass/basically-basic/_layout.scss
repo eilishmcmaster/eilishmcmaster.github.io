@@ -152,7 +152,7 @@ main {
     }
 
     .date {
-      margin-bottom: 1rem;
+      margin-bottom: 0rem;
       color: tint($text-color, 40%);
       font-family: $monospace-font-family;
       font-size: 80%;
@@ -162,7 +162,7 @@ main {
     .awarder,
     .publisher,
     .level {
-      margin: 1rem 0 0;
+      margin: 0rem 0 0;
     }
 
     .courses,

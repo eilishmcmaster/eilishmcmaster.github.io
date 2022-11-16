@@ -13,11 +13,12 @@
           <div class="date">{{ a.date }}</div>
         {% endif %}
         {% if a.awarder %}
-          <h5 class="awarder">{{ a.awarder }}</h5>
+          <div class="awarder"><strong>{{ a.awarder }}</strong></div>
         {% endif %}
         {% if a.summary %}
           <div class="summary">{{ a.summary | markdownify }}</div>
         {% endif %}
+        <br>
       {% endfor %}
     </div>
   </div>

@@ -2,12 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Eilish McMaster",
-    "label": "Scientific officer",
+    "label": "",
     "image": "",
     "email": "eilish.summer@gmail.com",
-    "phone": "0422632054",
-    "url": "https://www.researchgate.net/profile/Eilish-Mcmaster",
-    "summary": "I'm an early career researcher with an interest in the genomics of endangered species and ecosystems.",
+    "summary": "",
     "location": {
       "address": "Sydney, Australia"
     },
@@ -21,6 +19,16 @@
         "network": "Twitter",
         "username": "eilishmcm",
         "url": "https://twitter.com/eilishmcm"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Eilish McMaster",
+        "url": "https://www.researchgate.net/profile/Eilish-Mcmaster"
+      },
+      {
+        "network": "GitHub",
+        "username": "EilishMcMaster",
+        "url": "https://www.researchgate.net/profile/Eilish-Mcmaster"
       }
     ]
   },
@@ -94,19 +102,46 @@
       "location": "Brisbane, Australia"
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "The University of Queensland",
       "area": "Genetics and Microbiology",
-      "studyType": "Bachelor of Advanced Science (Honours)",
+      "studyType": "Bachelor of Advanced Science (First class honours)",
       "startDate": "2017-12-31",
       "endDate": "2020-12-31",
-      "gpa": "First class honours, GPA 7"
-      // "courses": []
+      "gpa": "7"
     }
   ],
-  "awards": [],
+  "awards": [
+    {
+      "title": "Dean’s Commendation for academic excellence",
+      "date": "2017, 2018, 2019",
+      "awarder": "The University of Queensland"
+    },
+    {
+      "title": "Summer Research Scholarship",
+      "date": "2017, 2018",
+      "awarder": "The University of Queensland"
+    },
+    {
+      "title": "Robert Kennedy Prize in Anatomy",
+      "date": "2018",
+      "awarder": "Robert Kennedy",
+      "summary":"Highest mark in first attempt in BIOM2208 (Differentiation and Development)"
+    },
+    {
+      "title": "Australian Society for Parasitology Prize",
+      "date": "2019",
+      "awarder": "Australian Society for Parasitology",
+      "summary":"Highest mark in first attempt in PARA3002 (Parasitology)"
+    },
+    {
+      "title": "First prize for poster presentation",
+      "date": "2020",
+      "awarder": "UQ School of Chemistry and Molecular Biosciences",
+      "summary": "First prize for honours poster presentation at 16th Annual Research Students Symposium"
+    }
+  ],
   "certificates": [
     {
       "name": "Biosecurity AA Accreditation ",
@@ -114,152 +149,36 @@
       "startDate": "2021-04-30"
     }
   ],
-  "publications": [],
   "skills": [
     {
-      "name": "Genome Analysis",
+      "name": "Metagenomics",
       "level": "",
-      "keywords": []
+      "keywords": ["Genome assembly","binning","quality checking", "relative abundance anlyses", "metabolism analysis","co-occurrence analyses","high power computing usage"]
     },
     {
-      "name": "Genome Assembly",
+      "name": "Population genomics",
       "level": "",
-      "keywords": []
+      "keywords": ["SNP data", "whole genome data", "R language","data visualisation","biogeography","admixture analysis","phylogenetics","kinship analysis","diversity analysis"]
     },
     {
-      "name": "Fluorescence Microscopy",
+      "name": "Molecular genetics",
       "level": "",
-      "keywords": []
+      "keywords": ["DNA extraction from environmental samples","library prep","PCR","qPCR","flourescence tagging","DNA fragmentation methods","gel electrophoresis"]
     },
     {
-      "name": "DNA Sequencing",
+      "name": "Culturing",
       "level": "",
-      "keywords": []
+      "keywords": ["Mammalian cell culture","bacterial culturing","fungal culturing","plant growth assays"]
+    },
+    {
+      "name": "Microscopy",
+      "level": "",
+      "keywords": ["Light microscopy","flourescence microscopy","flourescence in situ hybridisation (FISH)"]
     },
     {
       "name": "Teaching",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Molecular Genetics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Statistical Data Analysis",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microbiology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "University Teaching",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Plant Ecology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Conservation Biology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Research",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "R (Programming Language)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bacterial Culturing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Genomics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Scientific Visualization",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Report Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Cell Culture",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Academic Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Science Communication",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Real-Time Polymerase Chain Reaction (qPCR)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Team Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Laboratory Skills",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Statistics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Metagenomics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Ecology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Plant Biology",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Population Genetics",
-      "level": "",
-      "keywords": []
+      "keywords": ["University student tutoring"]
     }
   ],
   "languages": [
@@ -268,9 +187,12 @@
       "fluency": "Native Speaker"
     }
   ],
-  "interests": [],
-  "references": [],
-  "projects": [],
+  "references": [
+    {
+      "name": "Phil Hugenholtz",
+      "reference": "Despite the disruptions due to the COVID-19 shutdown, Eilish persisted in her research and showed great adaptability; overnight her project changed from largely wet-lab to entirely computational, which she took in her stride. Within the first five months she had completed the investigations that were planned to take a year. Not only did she perform well in her own work, but also willingly offered her time to help others with their projects when she was able. This dedication to her work coupled with her ability to learn independently has made her an excellent student to supervise. "
+    }
+  ],
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
