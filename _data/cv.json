@@ -1,0 +1,278 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Eilish McMaster",
+    "label": "Scientific officer",
+    "image": "",
+    "email": "eilish.summer@gmail.com",
+    "phone": "0422632054",
+    "url": "https://www.researchgate.net/profile/Eilish-Mcmaster",
+    "summary": "I'm an early career researcher with an interest in the genomics of endangered species and ecosystems.",
+    "location": {
+      "address": "Sydney, Australia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "eilish-mcmaster",
+        "url": "https://www.linkedin.com/in/eilish-mcmaster/"
+      },
+      {
+        "network": "Twitter",
+        "username": "eilishmcm",
+        "url": "https://twitter.com/eilishmcm"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "NSW Department of Planning and Environment",
+      "position": "Scientific Officer",
+      "startDate": "2022-05-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "In my role at the Research Centre for Ecosystem Resilience (ReCER) I conduct population genomics analyses on endangered plant species to inform conservation action. These analyses utilise whole genome SNP data and include taxonomic clarification, diversity assessment, gene flow and admixture detection, kinship analyses, and genetic optimisation of translocation populations. These projects are primarily associated with species undergoing management by the Saving our Species initiative (SoS) of the NSW government.",
+      "website": "https://www.linkedin.com/company/nswdpe/",
+      "location": "Sydney, New South Wales, Australia"
+    },
+    {
+      "company": "QUT (Queensland University of Technology)",
+      "position": "Research Assistant",
+      "startDate": "2020-12-31",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "At the Centre for Microbiome Research (CMR) I worked on lab based and bioinformatics projects investigating the ecology of the human gut, coral, and permafrost microbiomes. In the wet lab I designed and optimised protocols for novel techniques, conducted molecular and microscopy experiments, and worked with biosecurity materials. I also analysed metagenomic sequence data and contributed to paper and grant writing.",
+      "website": "https://www.linkedin.com/school/queensland-university-of-technology/",
+      "location": "Brisbane, Queensland, Australia"
+    },
+    {
+      "company": "The University of Queensland",
+      "position": "Tutor",
+      "startDate": "2020-07-31",
+      "endDate": "2021-12-31",
+      "highlights": [],
+      "summary": "At the University of Queensland I tutored third year bachelors subjects parasitology, biochemistry, and human genetics. This involved both lab based and online teaching. I was awarded top tutor based on student reviews in 2020.",
+      "website": "https://www.linkedin.com/school/university-of-queensland/",
+      "location": "Brisbane, Queensland, Australia"
+    },
+    {
+      "company": "The University of Queensland",
+      "position": "Honours project",
+      "startDate": "2020-01-31",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "In 2020 I undertook an honours research project in Prof. Tyson and prof. Hugenholtz' lab on the microbial community of thawing permafrost with a specific focus on bacteria-bacteria symbiosis. This encompassed genome reconstruction from metagenomic data, metabolic analysis from reconstructed genomes, co-phylogeny analysis, and machine learning prediction.",
+      "website": "https://www.linkedin.com/school/university-of-queensland/"
+    },
+    {
+      "company": "The University of Queensland",
+      "position": "Research Assistant",
+      "startDate": "2018-12-31",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "From 2018 to 2020 I worked as a research assistant in Professor Mayfield’s lab, which focusses on community ecology, using Western Australian native plants to create models for community assembly. My work involved experimental design and setup, using plant growth chambers, and data collection, and analysis.",
+      "website": "https://www.linkedin.com/school/university-of-queensland/",
+      "location": "Brisbane, Queensland, Australia"
+    },
+    {
+      "company": "The University of Queensland",
+      "position": "Student Researcher",
+      "startDate": "2019-06-30",
+      "endDate": "2019-11-30",
+      "highlights": [],
+      "summary": "In 2019 I undertook an independent research project in AProf. Dennis’ lab on the interactions of the banana plant microbiome and the fungal pathogen Fusarium oxysporum. I used various fungal and bacterial culturing techniques, and was able to identify several isolates from the banana microbiome that had moderate inhibitory effects on F. oxysporum",
+      "website": "https://www.linkedin.com/school/university-of-queensland/"
+    },
+    {
+      "company": "Translational Research Institute Australia",
+      "position": "Research Assistant",
+      "startDate": "2018-01-31",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "From 2018-2019 I worked as a student researcher in Professor Clifton’s lab, which has a focus on foetal development and the impact of nicotine, alcohol, and glucocorticosteroids on the mRNA expression of the foetus and placenta. I was involved with maintenance and treatment of various placental cell lines, and analysis of human tissue samples.",
+      "website": "https://www.linkedin.com/company/the-translational-research-institute/",
+      "location": "Brisbane, Australia"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "The University of Queensland",
+      "area": "Genetics and Microbiology",
+      "studyType": "Bachelor of Advanced Science (Honours)",
+      "startDate": "2017-12-31",
+      "endDate": "2020-12-31",
+      "gpa": "First class honours, GPA 7"
+      // "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Biosecurity AA Accreditation ",
+      "issuer": "Australian Government Department of Agriculture, Water and the Environment",
+      "startDate": "2021-04-30"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Genome Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genome Assembly",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fluorescence Microscopy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DNA Sequencing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Molecular Genetics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistical Data Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microbiology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "University Teaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Plant Ecology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Conservation Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bacterial Culturing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Genomics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Visualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Report Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cell Culture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Academic Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Science Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Real-Time Polymerase Chain Reaction (qPCR)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laboratory Skills",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Statistics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Metagenomics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ecology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Plant Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Population Genetics",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

@@ -1,5 +1,9 @@
 ---
+title: Curriculum Vitæ
 layout: cv
-title: CV
+actions:
+  - label: "Download as PDF"
+    icon: pdf
+    url: "#pdf-asset"
 permalink: /cv/
 ---
