@@ -5,7 +5,7 @@
     "label": "",
     "image": "",
     "email": "eilish.summer@gmail.com",
-    "summary": "",
+    "summary": "I'm an early career researcher working in the field of ecological genomics. I have extensive experience working with environmental metagenomic data, and more recently I've started working on conservation population genomics with eukaryotic genomes. Working on challenging projects across these fields has required me to develop new skills, creatively problem solve, and work cohesively with other team members.",
     "location": {
       "address": "Sydney, Australia"
     },
@@ -158,7 +158,7 @@
     {
       "name": "Population genomics",
       "level": "",
-      "keywords": ["SNP data", "whole genome data", "R language","data visualisation","biogeography","admixture analysis","phylogenetics","kinship analysis","diversity analysis"]
+      "keywords": ["SNP data", "whole genome data", "R language","Git version control","data visualisation","biogeography","admixture analysis","phylogenetics","kinship analysis","diversity analysis"]
     },
     {
       "name": "Molecular genetics",
@@ -174,11 +174,6 @@
       "name": "Microscopy",
       "level": "",
       "keywords": ["Light microscopy","flourescence microscopy","flourescence in situ hybridisation (FISH)"]
-    },
-    {
-      "name": "Teaching",
-      "level": "",
-      "keywords": ["University student tutoring"]
     }
   ],
   "languages": [
