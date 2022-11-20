@@ -5,7 +5,7 @@
     "label": "",
     "image": "",
     "email": "eilish.summer@gmail.com",
-    "summary": "I'm an early career researcher working in the field of ecological genomics. I have extensive experience working with environmental metagenomic data, and more recently I've started working on conservation population genomics with eukaryotic genomes. Working on challenging projects across these fields has required me to develop new skills, creatively problem solve, and work cohesively with other team members.",
+    "summary": "I'm an early career researcher working in the field of ecological genomics. I have extensive experience working with environmental metagenomic data, and more recently I've started working on conservation population genomics with plant genomes.",
     "location": {
       "address": "Sydney, Australia"
     },
@@ -40,17 +40,17 @@
       "endDate": "",
       "highlights": [],
       "summary": "In my role at the Research Centre for Ecosystem Resilience (ReCER) I conduct population genomics analyses on endangered plant species to inform conservation action. These analyses utilise whole genome SNP data and include taxonomic clarification, diversity assessment, gene flow and admixture detection, kinship analyses, and genetic optimisation of translocation populations. These projects are primarily associated with species undergoing management by the Saving our Species initiative (SoS) of the NSW government.",
-      "website": "https://www.linkedin.com/company/nswdpe/",
+      "website": "https://recer.org.au/ ",
       "location": "Sydney, New South Wales, Australia"
     },
     {
-      "company": "QUT (Queensland University of Technology)",
+      "company": "Queensland University of Technology",
       "position": "Research Assistant",
       "startDate": "2020-12-31",
       "endDate": "2022-08-31",
       "highlights": [],
       "summary": "At the Centre for Microbiome Research (CMR) I worked on lab based and bioinformatics projects investigating the ecology of the human gut, coral, and permafrost microbiomes. In the wet lab I designed and optimised protocols for novel techniques, conducted molecular and microscopy experiments, and worked with biosecurity materials. I also analysed metagenomic sequence data and contributed to paper and grant writing.",
-      "website": "https://www.linkedin.com/school/queensland-university-of-technology/",
+      "website": "https://research.qut.edu.au/cmr/",
       "location": "Brisbane, Queensland, Australia"
     },
     {
@@ -69,8 +69,8 @@
       "startDate": "2020-01-31",
       "endDate": "2020-12-31",
       "highlights": [],
-      "summary": "In 2020 I undertook an honours research project in Prof. Tyson and prof. Hugenholtz' lab on the microbial community of thawing permafrost with a specific focus on bacteria-bacteria symbiosis. This encompassed genome reconstruction from metagenomic data, metabolic analysis from reconstructed genomes, co-phylogeny analysis, and machine learning prediction.",
-      "website": "https://www.linkedin.com/school/university-of-queensland/"
+      "summary": "In 2020 I undertook an honours research project at the Australian Centre for Ecogenomics (ACE) on the microbial community of thawing permafrost with a specific focus on bacteria-bacteria symbiosis. This encompassed genome reconstruction from metagenomic data, metabolic analysis from reconstructed genomes, co-phylogeny analysis, and machine learning prediction.",
+      "website": "https://scmb.uq.edu.au/centres-and-institutes/australian-centre-ecogenomics"
     },
     {
       "company": "The University of Queensland",
@@ -78,17 +78,17 @@
       "startDate": "2018-12-31",
       "endDate": "2020-12-31",
       "highlights": [],
-      "summary": "From 2018 to 2020 I worked as a research assistant in Professor Mayfield’s lab, which focusses on community ecology, using Western Australian native plants to create models for community assembly. My work involved experimental design and setup, using plant growth chambers, and data collection, and analysis.",
+      "summary": "From 2018 to 2020 I worked as a research assistant in Professor Margaret Mayfield’s lab, which focusses on the community ecology of Western Australian native plants. My work involved experimental design and setup, using plant growth chambers, and data collection, and analysis.",
       "website": "https://www.linkedin.com/school/university-of-queensland/",
       "location": "Brisbane, Queensland, Australia"
     },
     {
       "company": "The University of Queensland",
-      "position": "Student Researcher",
+      "position": "Undergraduate project",
       "startDate": "2019-06-30",
       "endDate": "2019-11-30",
       "highlights": [],
-      "summary": "In 2019 I undertook an independent research project in AProf. Dennis’ lab on the interactions of the banana plant microbiome and the fungal pathogen Fusarium oxysporum. I used various fungal and bacterial culturing techniques, and was able to identify several isolates from the banana microbiome that had moderate inhibitory effects on F. oxysporum",
+      "summary": "In 2019 I undertook an independent research project in Associate Professor Paul Dennis’ lab on the interactions of the banana plant microbiome and the fungal pathogen Fusarium oxysporum. I used various fungal and bacterial culturing techniques and was able to identify several isolates from the banana microbiome that had moderate inhibitory effects on F. oxysporum.",
       "website": "https://www.linkedin.com/school/university-of-queensland/"
     },
     {
@@ -97,7 +97,7 @@
       "startDate": "2018-01-31",
       "endDate": "2019-07-31",
       "highlights": [],
-      "summary": "From 2018-2019 I worked as a student researcher in Professor Clifton’s lab, which has a focus on foetal development and the impact of nicotine, alcohol, and glucocorticosteroids on the mRNA expression of the foetus and placenta. I was involved with maintenance and treatment of various placental cell lines, and analysis of human tissue samples.",
+      "summary": "Professor Clifton’s lab has a focus on foetal development and the impact of nicotine, alcohol, and glucocorticosteroids on the mRNA expression of the foetus and placenta. In this lab I conducted DNA extraction and amplification on cell culture and tissue samples, as well as qPCR, and maintenance and treatment of various placental cell lines.",
       "website": "https://www.linkedin.com/company/the-translational-research-institute/",
       "location": "Brisbane, Australia"
     }
@@ -151,19 +151,24 @@
   ],
   "skills": [
     {
+      "name": "Computational",
+      "level": "",
+      "keywords": ["High power computing usage", "R programming language","basic Python language","excellent data visualisation", "Git version control"]
+    },
+    {
       "name": "Metagenomics",
       "level": "",
-      "keywords": ["Genome assembly","binning","quality checking", "relative abundance anlyses", "metabolism analysis","co-occurrence analyses","high power computing usage"]
+      "keywords": ["Illumina short read and Nanopore long read sequence analysis" , "genome assembly, binning, and quality checking","strain level analysis","metabolic pathway analysis", "community analysis"]
     },
     {
       "name": "Population genomics",
       "level": "",
-      "keywords": ["SNP data", "whole genome data", "R language","Git version control","data visualisation","biogeography","admixture analysis","phylogenetics","kinship analysis","diversity analysis"]
+      "keywords": ["PacBio genome assembly", "SNP/whole genome data analysis for gene flow, admixture, population diversity, and kinship estimation"]
     },
     {
-      "name": "Molecular genetics",
+      "name": "Molecular",
       "level": "",
-      "keywords": ["DNA extraction from environmental samples","library prep","PCR","qPCR","flourescence tagging","DNA fragmentation methods","gel electrophoresis"]
+      "keywords": ["DNA extraction from environmental samples","library prep","PCR","qPCR","Method development (fluorescent tagging, hybridization capture)", "flourescence in situ hybridisation (FISH)"]
     },
     {
       "name": "Culturing",
@@ -173,7 +178,7 @@
     {
       "name": "Microscopy",
       "level": "",
-      "keywords": ["Light microscopy","flourescence microscopy","flourescence in situ hybridisation (FISH)"]
+      "keywords": ["Light microscopy","flourescence microscopy"]
     }
   ],
   "languages": [
